@@ -15,6 +15,7 @@ pluginManagement {
         mavenCentral()
         jcenter()
     }
+    
 }
 
 rootProject.name = ("kotlin-android-template")
